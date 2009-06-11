@@ -1,0 +1,8 @@
+    Frontend to crypt() libc function.
+    Written by Juergen P. Meier
+
+    This is Free Software and open source.
+
+    Generates Passwordhashes useable for unix shadow, apache .htpasswd,
+    Cisco type 5 secrets (uses md5 hashes with 5-letter seeds) etc.
+
